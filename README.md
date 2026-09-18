@@ -38,3 +38,5 @@ Desktop/
    terraform init
    terraform plan
    terraform apply
+https://screenshot-v2.corp.google.com/0aljnkg5lm3gg -- image link 
+   
